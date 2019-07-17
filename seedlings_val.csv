@@ -1,0 +1,751 @@
+,category,filename,label
+0,Black-grass,train/Black-grass/cbeb36bc6.png,0
+1,Common wheat,train/Common wheat/0ec23ca76.png,4
+2,Small-flowered Cranesbill,train/Small-flowered Cranesbill/92888379a.png,10
+3,Scentless Mayweed,train/Scentless Mayweed/8d65bde6a.png,8
+4,Maize,train/Maize/7446f241c.png,7
+5,Common wheat,train/Common wheat/7d9f34d96.png,4
+6,Loose Silky-bent,train/Loose Silky-bent/c3b34e88c.png,6
+7,Sugar beet,train/Sugar beet/5780239a1.png,11
+8,Scentless Mayweed,train/Scentless Mayweed/5b3fe64c3.png,8
+9,Scentless Mayweed,train/Scentless Mayweed/618922851.png,8
+10,Scentless Mayweed,train/Scentless Mayweed/fd0ca2322.png,8
+11,Sugar beet,train/Sugar beet/3fc131cb9.png,11
+12,Sugar beet,train/Sugar beet/f7ac77334.png,11
+13,Sugar beet,train/Sugar beet/6a97c84ac.png,11
+14,Loose Silky-bent,train/Loose Silky-bent/abe1fdd5c.png,6
+15,Common Chickweed,train/Common Chickweed/22e7c17b2.png,3
+16,Maize,train/Maize/5363a9f84.png,7
+17,Fat Hen,train/Fat Hen/91a5d8724.png,5
+18,Small-flowered Cranesbill,train/Small-flowered Cranesbill/85f1d46e7.png,10
+19,Maize,train/Maize/66a87d834.png,7
+20,Scentless Mayweed,train/Scentless Mayweed/bf5217e5b.png,8
+21,Black-grass,train/Black-grass/adc5443dc.png,0
+22,Sugar beet,train/Sugar beet/657ba211d.png,11
+23,Common Chickweed,train/Common Chickweed/eb6b7fe4c.png,3
+24,Small-flowered Cranesbill,train/Small-flowered Cranesbill/967163f07.png,10
+25,Small-flowered Cranesbill,train/Small-flowered Cranesbill/75ae1bb94.png,10
+26,Common wheat,train/Common wheat/6abbc4d24.png,4
+27,Scentless Mayweed,train/Scentless Mayweed/727fe56ac.png,8
+28,Common Chickweed,train/Common Chickweed/8060d0736.png,3
+29,Loose Silky-bent,train/Loose Silky-bent/77b27933d.png,6
+30,Cleavers,train/Cleavers/d90adada5.png,2
+31,Common Chickweed,train/Common Chickweed/3740d90d5.png,3
+32,Scentless Mayweed,train/Scentless Mayweed/97ea07cab.png,8
+33,Scentless Mayweed,train/Scentless Mayweed/1ea84cfc7.png,8
+34,Loose Silky-bent,train/Loose Silky-bent/333f36618.png,6
+35,Loose Silky-bent,train/Loose Silky-bent/cffbd81fb.png,6
+36,Charlock,train/Charlock/49a8c3409.png,1
+37,Scentless Mayweed,train/Scentless Mayweed/01e90ef62.png,8
+38,Common wheat,train/Common wheat/0ff464e3e.png,4
+39,Common Chickweed,train/Common Chickweed/7acfcf6cf.png,3
+40,Cleavers,train/Cleavers/d20d68489.png,2
+41,Charlock,train/Charlock/71472bf20.png,1
+42,Loose Silky-bent,train/Loose Silky-bent/79cc28175.png,6
+43,Common wheat,train/Common wheat/bad392832.png,4
+44,Common Chickweed,train/Common Chickweed/92e13ce8b.png,3
+45,Charlock,train/Charlock/ee111c2ae.png,1
+46,Fat Hen,train/Fat Hen/fbd995178.png,5
+47,Scentless Mayweed,train/Scentless Mayweed/4408bae35.png,8
+48,Small-flowered Cranesbill,train/Small-flowered Cranesbill/789711110.png,10
+49,Fat Hen,train/Fat Hen/0d5ece722.png,5
+50,Sugar beet,train/Sugar beet/d4db82d2c.png,11
+51,Loose Silky-bent,train/Loose Silky-bent/77b0abed9.png,6
+52,Sugar beet,train/Sugar beet/73d86199e.png,11
+53,Black-grass,train/Black-grass/3a8c485bc.png,0
+54,Common Chickweed,train/Common Chickweed/9b09003fa.png,3
+55,Cleavers,train/Cleavers/0bec204c7.png,2
+56,Common Chickweed,train/Common Chickweed/3ee3ef6a3.png,3
+57,Small-flowered Cranesbill,train/Small-flowered Cranesbill/d394d353a.png,10
+58,Charlock,train/Charlock/f5672ef15.png,1
+59,Charlock,train/Charlock/a96c1356b.png,1
+60,Common Chickweed,train/Common Chickweed/47b316d8f.png,3
+61,Charlock,train/Charlock/be27e52a5.png,1
+62,Shepherds Purse,train/Shepherds Purse/c9457398b.png,9
+63,Small-flowered Cranesbill,train/Small-flowered Cranesbill/2fa8935f8.png,10
+64,Sugar beet,train/Sugar beet/1835ba646.png,11
+65,Maize,train/Maize/fc68c0525.png,7
+66,Fat Hen,train/Fat Hen/26220c5b7.png,5
+67,Shepherds Purse,train/Shepherds Purse/31abca20c.png,9
+68,Loose Silky-bent,train/Loose Silky-bent/29b0930d2.png,6
+69,Common wheat,train/Common wheat/628294daf.png,4
+70,Small-flowered Cranesbill,train/Small-flowered Cranesbill/e0a816c0b.png,10
+71,Charlock,train/Charlock/fca3c13ca.png,1
+72,Fat Hen,train/Fat Hen/6cfecf7c5.png,5
+73,Loose Silky-bent,train/Loose Silky-bent/58e87687a.png,6
+74,Small-flowered Cranesbill,train/Small-flowered Cranesbill/375e964fd.png,10
+75,Loose Silky-bent,train/Loose Silky-bent/fdb42d1ce.png,6
+76,Small-flowered Cranesbill,train/Small-flowered Cranesbill/ea257f436.png,10
+77,Shepherds Purse,train/Shepherds Purse/950c3e930.png,9
+78,Common Chickweed,train/Common Chickweed/2424bfd5a.png,3
+79,Small-flowered Cranesbill,train/Small-flowered Cranesbill/4430933ca.png,10
+80,Maize,train/Maize/5112e0b90.png,7
+81,Sugar beet,train/Sugar beet/978de5160.png,11
+82,Loose Silky-bent,train/Loose Silky-bent/79506c07d.png,6
+83,Common wheat,train/Common wheat/528ef22fe.png,4
+84,Sugar beet,train/Sugar beet/10f06d712.png,11
+85,Cleavers,train/Cleavers/500a7b5b3.png,2
+86,Shepherds Purse,train/Shepherds Purse/e19023937.png,9
+87,Fat Hen,train/Fat Hen/eb6811993.png,5
+88,Sugar beet,train/Sugar beet/59ca13fa5.png,11
+89,Loose Silky-bent,train/Loose Silky-bent/620fdcc9b.png,6
+90,Common wheat,train/Common wheat/a40bd448a.png,4
+91,Loose Silky-bent,train/Loose Silky-bent/5dbd18569.png,6
+92,Charlock,train/Charlock/1b8281227.png,1
+93,Shepherds Purse,train/Shepherds Purse/a538401ce.png,9
+94,Loose Silky-bent,train/Loose Silky-bent/dbcc62b36.png,6
+95,Black-grass,train/Black-grass/b9dfffe2a.png,0
+96,Sugar beet,train/Sugar beet/89c1a501a.png,11
+97,Sugar beet,train/Sugar beet/cb5ff9c78.png,11
+98,Fat Hen,train/Fat Hen/a3e1e7ffd.png,5
+99,Fat Hen,train/Fat Hen/f180203df.png,5
+100,Shepherds Purse,train/Shepherds Purse/4e74df4b6.png,9
+101,Scentless Mayweed,train/Scentless Mayweed/ba28e9c09.png,8
+102,Scentless Mayweed,train/Scentless Mayweed/304fb9580.png,8
+103,Sugar beet,train/Sugar beet/e8870a1b1.png,11
+104,Charlock,train/Charlock/81be6d02f.png,1
+105,Charlock,train/Charlock/a04a7dda2.png,1
+106,Scentless Mayweed,train/Scentless Mayweed/5e6b8c2a1.png,8
+107,Loose Silky-bent,train/Loose Silky-bent/2a62cd782.png,6
+108,Cleavers,train/Cleavers/899877fe1.png,2
+109,Small-flowered Cranesbill,train/Small-flowered Cranesbill/05e5b5cb6.png,10
+110,Small-flowered Cranesbill,train/Small-flowered Cranesbill/8788bc3cb.png,10
+111,Small-flowered Cranesbill,train/Small-flowered Cranesbill/d1476bc9f.png,10
+112,Loose Silky-bent,train/Loose Silky-bent/ac6377773.png,6
+113,Common wheat,train/Common wheat/c7b35625d.png,4
+114,Common Chickweed,train/Common Chickweed/e231ad747.png,3
+115,Scentless Mayweed,train/Scentless Mayweed/a5b0c23ea.png,8
+116,Shepherds Purse,train/Shepherds Purse/d30a460b4.png,9
+117,Scentless Mayweed,train/Scentless Mayweed/1247e28dc.png,8
+118,Maize,train/Maize/f34429b11.png,7
+119,Common Chickweed,train/Common Chickweed/0c07d7246.png,3
+120,Fat Hen,train/Fat Hen/f348e35e9.png,5
+121,Sugar beet,train/Sugar beet/a9daba74c.png,11
+122,Small-flowered Cranesbill,train/Small-flowered Cranesbill/cf9ef8c5e.png,10
+123,Charlock,train/Charlock/88c2c6f8a.png,1
+124,Small-flowered Cranesbill,train/Small-flowered Cranesbill/0cae486ac.png,10
+125,Charlock,train/Charlock/8194f9c87.png,1
+126,Maize,train/Maize/23775190c.png,7
+127,Small-flowered Cranesbill,train/Small-flowered Cranesbill/c38a4c31e.png,10
+128,Common wheat,train/Common wheat/42646d53e.png,4
+129,Scentless Mayweed,train/Scentless Mayweed/a3290e2dc.png,8
+130,Common Chickweed,train/Common Chickweed/27d08b6f9.png,3
+131,Common Chickweed,train/Common Chickweed/672d71ed0.png,3
+132,Small-flowered Cranesbill,train/Small-flowered Cranesbill/a4f26b005.png,10
+133,Small-flowered Cranesbill,train/Small-flowered Cranesbill/33253201f.png,10
+134,Shepherds Purse,train/Shepherds Purse/fe0f1b30d.png,9
+135,Scentless Mayweed,train/Scentless Mayweed/a5ccc5275.png,8
+136,Sugar beet,train/Sugar beet/a6805e809.png,11
+137,Small-flowered Cranesbill,train/Small-flowered Cranesbill/f1196e55f.png,10
+138,Common Chickweed,train/Common Chickweed/c5ddfa4a2.png,3
+139,Black-grass,train/Black-grass/a37d61200.png,0
+140,Fat Hen,train/Fat Hen/bfaab608c.png,5
+141,Fat Hen,train/Fat Hen/2b17dc2ba.png,5
+142,Scentless Mayweed,train/Scentless Mayweed/da97861ed.png,8
+143,Scentless Mayweed,train/Scentless Mayweed/fb95e0cfa.png,8
+144,Black-grass,train/Black-grass/957b8523c.png,0
+145,Scentless Mayweed,train/Scentless Mayweed/7d69c71e1.png,8
+146,Charlock,train/Charlock/200589bf2.png,1
+147,Scentless Mayweed,train/Scentless Mayweed/8c1d546d9.png,8
+148,Black-grass,train/Black-grass/b26a7a6ed.png,0
+149,Charlock,train/Charlock/363fbba0d.png,1
+150,Loose Silky-bent,train/Loose Silky-bent/d62f8f844.png,6
+151,Charlock,train/Charlock/34dab243e.png,1
+152,Maize,train/Maize/f30971a76.png,7
+153,Small-flowered Cranesbill,train/Small-flowered Cranesbill/9096d82dc.png,10
+154,Charlock,train/Charlock/5ecc28145.png,1
+155,Black-grass,train/Black-grass/ea498dd9c.png,0
+156,Sugar beet,train/Sugar beet/87f4dcfe7.png,11
+157,Scentless Mayweed,train/Scentless Mayweed/425efb679.png,8
+158,Scentless Mayweed,train/Scentless Mayweed/152cc15e0.png,8
+159,Common Chickweed,train/Common Chickweed/e7aca715c.png,3
+160,Small-flowered Cranesbill,train/Small-flowered Cranesbill/9eed2c8f4.png,10
+161,Small-flowered Cranesbill,train/Small-flowered Cranesbill/f8d9d8885.png,10
+162,Maize,train/Maize/6219b36db.png,7
+163,Sugar beet,train/Sugar beet/d585fe0c7.png,11
+164,Common Chickweed,train/Common Chickweed/5cd0ccfc1.png,3
+165,Common Chickweed,train/Common Chickweed/09f58b32a.png,3
+166,Shepherds Purse,train/Shepherds Purse/006a4d00d.png,9
+167,Common Chickweed,train/Common Chickweed/70d2d710d.png,3
+168,Fat Hen,train/Fat Hen/bcb9e211a.png,5
+169,Small-flowered Cranesbill,train/Small-flowered Cranesbill/3aebd50f0.png,10
+170,Small-flowered Cranesbill,train/Small-flowered Cranesbill/fb4522b41.png,10
+171,Black-grass,train/Black-grass/2f6bc240a.png,0
+172,Loose Silky-bent,train/Loose Silky-bent/30df8fb8d.png,6
+173,Fat Hen,train/Fat Hen/1688c9a5f.png,5
+174,Charlock,train/Charlock/2fd604008.png,1
+175,Common wheat,train/Common wheat/73eaf7247.png,4
+176,Common Chickweed,train/Common Chickweed/91d294b43.png,3
+177,Scentless Mayweed,train/Scentless Mayweed/b7b392448.png,8
+178,Charlock,train/Charlock/04142acb9.png,1
+179,Fat Hen,train/Fat Hen/d402cc5ca.png,5
+180,Loose Silky-bent,train/Loose Silky-bent/73a56527d.png,6
+181,Black-grass,train/Black-grass/a0baf5f7b.png,0
+182,Black-grass,train/Black-grass/7b71d3e65.png,0
+183,Scentless Mayweed,train/Scentless Mayweed/dd1e759c0.png,8
+184,Common wheat,train/Common wheat/872174e0f.png,4
+185,Fat Hen,train/Fat Hen/c354695d7.png,5
+186,Scentless Mayweed,train/Scentless Mayweed/5c9defa0f.png,8
+187,Common wheat,train/Common wheat/8d664b2b6.png,4
+188,Small-flowered Cranesbill,train/Small-flowered Cranesbill/af181cd9c.png,10
+189,Common Chickweed,train/Common Chickweed/e9ba4c313.png,3
+190,Shepherds Purse,train/Shepherds Purse/6346a5813.png,9
+191,Scentless Mayweed,train/Scentless Mayweed/f12c028d0.png,8
+192,Common Chickweed,train/Common Chickweed/128d62bc2.png,3
+193,Charlock,train/Charlock/c836af21e.png,1
+194,Sugar beet,train/Sugar beet/2982d5c21.png,11
+195,Maize,train/Maize/f2c22a1bf.png,7
+196,Fat Hen,train/Fat Hen/cb698f0ea.png,5
+197,Sugar beet,train/Sugar beet/f78fcd305.png,11
+198,Common Chickweed,train/Common Chickweed/7b5ff3a68.png,3
+199,Maize,train/Maize/c6fabfb59.png,7
+200,Maize,train/Maize/051ea51d0.png,7
+201,Scentless Mayweed,train/Scentless Mayweed/edd5b2b13.png,8
+202,Sugar beet,train/Sugar beet/18c0f6b8f.png,11
+203,Loose Silky-bent,train/Loose Silky-bent/7d36fb3eb.png,6
+204,Scentless Mayweed,train/Scentless Mayweed/a74f659c5.png,8
+205,Loose Silky-bent,train/Loose Silky-bent/5ca0fcfba.png,6
+206,Loose Silky-bent,train/Loose Silky-bent/02b15993e.png,6
+207,Charlock,train/Charlock/65ea4e47c.png,1
+208,Cleavers,train/Cleavers/bf07fe75d.png,2
+209,Charlock,train/Charlock/a8e7520de.png,1
+210,Fat Hen,train/Fat Hen/11e40532a.png,5
+211,Fat Hen,train/Fat Hen/6b6061001.png,5
+212,Fat Hen,train/Fat Hen/10553b4e8.png,5
+213,Small-flowered Cranesbill,train/Small-flowered Cranesbill/42db489c6.png,10
+214,Fat Hen,train/Fat Hen/b8e176ae8.png,5
+215,Shepherds Purse,train/Shepherds Purse/5512ca7ba.png,9
+216,Loose Silky-bent,train/Loose Silky-bent/80f4097f5.png,6
+217,Black-grass,train/Black-grass/fc1001932.png,0
+218,Loose Silky-bent,train/Loose Silky-bent/e984f580b.png,6
+219,Shepherds Purse,train/Shepherds Purse/5f87b1a93.png,9
+220,Scentless Mayweed,train/Scentless Mayweed/319667b0f.png,8
+221,Maize,train/Maize/a37e7b7db.png,7
+222,Loose Silky-bent,train/Loose Silky-bent/e9ef76a8d.png,6
+223,Fat Hen,train/Fat Hen/b4fd78671.png,5
+224,Shepherds Purse,train/Shepherds Purse/e53eefec4.png,9
+225,Fat Hen,train/Fat Hen/fe23b8530.png,5
+226,Charlock,train/Charlock/f0ced8a62.png,1
+227,Loose Silky-bent,train/Loose Silky-bent/0822463cb.png,6
+228,Common wheat,train/Common wheat/cf0197941.png,4
+229,Loose Silky-bent,train/Loose Silky-bent/830455097.png,6
+230,Small-flowered Cranesbill,train/Small-flowered Cranesbill/c046b4f90.png,10
+231,Common Chickweed,train/Common Chickweed/6b6df19b2.png,3
+232,Shepherds Purse,train/Shepherds Purse/fdd0a59e3.png,9
+233,Loose Silky-bent,train/Loose Silky-bent/5deb3574c.png,6
+234,Loose Silky-bent,train/Loose Silky-bent/49febdc76.png,6
+235,Sugar beet,train/Sugar beet/65e78e25b.png,11
+236,Charlock,train/Charlock/c97f86135.png,1
+237,Common Chickweed,train/Common Chickweed/56f69db16.png,3
+238,Loose Silky-bent,train/Loose Silky-bent/5db7b4179.png,6
+239,Scentless Mayweed,train/Scentless Mayweed/ddb46795d.png,8
+240,Loose Silky-bent,train/Loose Silky-bent/323963103.png,6
+241,Loose Silky-bent,train/Loose Silky-bent/65c207aa6.png,6
+242,Black-grass,train/Black-grass/dd091a2a9.png,0
+243,Fat Hen,train/Fat Hen/e27bb5522.png,5
+244,Small-flowered Cranesbill,train/Small-flowered Cranesbill/50a132243.png,10
+245,Cleavers,train/Cleavers/1b28a0668.png,2
+246,Fat Hen,train/Fat Hen/5bdfa3a44.png,5
+247,Common Chickweed,train/Common Chickweed/f3e74582f.png,3
+248,Common Chickweed,train/Common Chickweed/d22156fb3.png,3
+249,Loose Silky-bent,train/Loose Silky-bent/280af96c0.png,6
+250,Cleavers,train/Cleavers/fd5074d77.png,2
+251,Sugar beet,train/Sugar beet/86054cfe8.png,11
+252,Black-grass,train/Black-grass/a5f23b59f.png,0
+253,Maize,train/Maize/2b968a9e0.png,7
+254,Black-grass,train/Black-grass/f007dfa26.png,0
+255,Common Chickweed,train/Common Chickweed/e1c89faa5.png,3
+256,Sugar beet,train/Sugar beet/f506aa640.png,11
+257,Black-grass,train/Black-grass/1576ce9fd.png,0
+258,Small-flowered Cranesbill,train/Small-flowered Cranesbill/90e1ab9bd.png,10
+259,Sugar beet,train/Sugar beet/f8bf223f3.png,11
+260,Charlock,train/Charlock/4e0cef11d.png,1
+261,Black-grass,train/Black-grass/7fa6dbe11.png,0
+262,Fat Hen,train/Fat Hen/f1b52dd6f.png,5
+263,Fat Hen,train/Fat Hen/ccb763490.png,5
+264,Small-flowered Cranesbill,train/Small-flowered Cranesbill/8023cf2e2.png,10
+265,Loose Silky-bent,train/Loose Silky-bent/f9d597956.png,6
+266,Loose Silky-bent,train/Loose Silky-bent/978ca7607.png,6
+267,Cleavers,train/Cleavers/1ef8ef4af.png,2
+268,Charlock,train/Charlock/157ade042.png,1
+269,Black-grass,train/Black-grass/25daae389.png,0
+270,Cleavers,train/Cleavers/8c0e41a93.png,2
+271,Common Chickweed,train/Common Chickweed/dd3f63ce0.png,3
+272,Common Chickweed,train/Common Chickweed/7a7c2d6f8.png,3
+273,Common Chickweed,train/Common Chickweed/00d33935c.png,3
+274,Sugar beet,train/Sugar beet/9ee5dbda4.png,11
+275,Common Chickweed,train/Common Chickweed/0593874ae.png,3
+276,Small-flowered Cranesbill,train/Small-flowered Cranesbill/1a73adfd9.png,10
+277,Common wheat,train/Common wheat/854146480.png,4
+278,Small-flowered Cranesbill,train/Small-flowered Cranesbill/ec87dcbbf.png,10
+279,Common Chickweed,train/Common Chickweed/e8cef28fa.png,3
+280,Scentless Mayweed,train/Scentless Mayweed/f20fced05.png,8
+281,Charlock,train/Charlock/94af3e45a.png,1
+282,Loose Silky-bent,train/Loose Silky-bent/c1af927f2.png,6
+283,Loose Silky-bent,train/Loose Silky-bent/874893994.png,6
+284,Small-flowered Cranesbill,train/Small-flowered Cranesbill/89d260299.png,10
+285,Shepherds Purse,train/Shepherds Purse/7d5f8aab4.png,9
+286,Loose Silky-bent,train/Loose Silky-bent/5012867e0.png,6
+287,Small-flowered Cranesbill,train/Small-flowered Cranesbill/922f5f1d1.png,10
+288,Shepherds Purse,train/Shepherds Purse/42de1a9d5.png,9
+289,Maize,train/Maize/dc7a7bdeb.png,7
+290,Loose Silky-bent,train/Loose Silky-bent/47f57446f.png,6
+291,Common Chickweed,train/Common Chickweed/4d7682775.png,3
+292,Shepherds Purse,train/Shepherds Purse/65ab41503.png,9
+293,Common Chickweed,train/Common Chickweed/846dfcd48.png,3
+294,Loose Silky-bent,train/Loose Silky-bent/46ebc27d5.png,6
+295,Fat Hen,train/Fat Hen/a5c5b9386.png,5
+296,Small-flowered Cranesbill,train/Small-flowered Cranesbill/3ad4ad205.png,10
+297,Common Chickweed,train/Common Chickweed/23316b4b0.png,3
+298,Common Chickweed,train/Common Chickweed/07e651912.png,3
+299,Sugar beet,train/Sugar beet/92eac7565.png,11
+300,Fat Hen,train/Fat Hen/4374a9eef.png,5
+301,Loose Silky-bent,train/Loose Silky-bent/17309f0c2.png,6
+302,Common Chickweed,train/Common Chickweed/4b33a6880.png,3
+303,Sugar beet,train/Sugar beet/4e8f9790e.png,11
+304,Common wheat,train/Common wheat/470263795.png,4
+305,Common Chickweed,train/Common Chickweed/8d1805187.png,3
+306,Small-flowered Cranesbill,train/Small-flowered Cranesbill/1c41c5fd4.png,10
+307,Sugar beet,train/Sugar beet/b47d8d8f9.png,11
+308,Shepherds Purse,train/Shepherds Purse/465fc11b5.png,9
+309,Fat Hen,train/Fat Hen/5f6ad629d.png,5
+310,Scentless Mayweed,train/Scentless Mayweed/e4f5d3cf6.png,8
+311,Loose Silky-bent,train/Loose Silky-bent/d41f0cd9c.png,6
+312,Small-flowered Cranesbill,train/Small-flowered Cranesbill/db3085018.png,10
+313,Common wheat,train/Common wheat/fc95f5ed2.png,4
+314,Small-flowered Cranesbill,train/Small-flowered Cranesbill/58e22d25a.png,10
+315,Common wheat,train/Common wheat/77e9ac562.png,4
+316,Scentless Mayweed,train/Scentless Mayweed/32dd5e36d.png,8
+317,Cleavers,train/Cleavers/c7b4ce2e3.png,2
+318,Cleavers,train/Cleavers/184e9eb16.png,2
+319,Maize,train/Maize/2b7549816.png,7
+320,Shepherds Purse,train/Shepherds Purse/46c449cdf.png,9
+321,Small-flowered Cranesbill,train/Small-flowered Cranesbill/517aa9aec.png,10
+322,Small-flowered Cranesbill,train/Small-flowered Cranesbill/4731cb066.png,10
+323,Loose Silky-bent,train/Loose Silky-bent/9306b0731.png,6
+324,Small-flowered Cranesbill,train/Small-flowered Cranesbill/0a2ff1911.png,10
+325,Cleavers,train/Cleavers/be41914d8.png,2
+326,Loose Silky-bent,train/Loose Silky-bent/330630db5.png,6
+327,Cleavers,train/Cleavers/265a7f826.png,2
+328,Charlock,train/Charlock/2f75f171e.png,1
+329,Maize,train/Maize/44a9a599d.png,7
+330,Loose Silky-bent,train/Loose Silky-bent/60633ad65.png,6
+331,Loose Silky-bent,train/Loose Silky-bent/623b479d5.png,6
+332,Small-flowered Cranesbill,train/Small-flowered Cranesbill/acbf61855.png,10
+333,Loose Silky-bent,train/Loose Silky-bent/3fb49152c.png,6
+334,Loose Silky-bent,train/Loose Silky-bent/6bbc3e3dd.png,6
+335,Loose Silky-bent,train/Loose Silky-bent/96def553d.png,6
+336,Shepherds Purse,train/Shepherds Purse/631cac357.png,9
+337,Small-flowered Cranesbill,train/Small-flowered Cranesbill/e0ed50f3a.png,10
+338,Maize,train/Maize/3b6bc2e4c.png,7
+339,Charlock,train/Charlock/04098447d.png,1
+340,Fat Hen,train/Fat Hen/22cd06b64.png,5
+341,Charlock,train/Charlock/7066f950c.png,1
+342,Sugar beet,train/Sugar beet/60bdea399.png,11
+343,Maize,train/Maize/649b7af36.png,7
+344,Maize,train/Maize/a1d7080b1.png,7
+345,Common wheat,train/Common wheat/14d8b012c.png,4
+346,Common Chickweed,train/Common Chickweed/ffc02550b.png,3
+347,Loose Silky-bent,train/Loose Silky-bent/56ac466ec.png,6
+348,Maize,train/Maize/b273efc22.png,7
+349,Shepherds Purse,train/Shepherds Purse/6d92a3538.png,9
+350,Shepherds Purse,train/Shepherds Purse/70aedd14d.png,9
+351,Loose Silky-bent,train/Loose Silky-bent/73fd71a9d.png,6
+352,Charlock,train/Charlock/512f3e717.png,1
+353,Fat Hen,train/Fat Hen/d0c3b7610.png,5
+354,Scentless Mayweed,train/Scentless Mayweed/89960b2fb.png,8
+355,Fat Hen,train/Fat Hen/008f1b92d.png,5
+356,Sugar beet,train/Sugar beet/1290426f8.png,11
+357,Small-flowered Cranesbill,train/Small-flowered Cranesbill/bc924a3ff.png,10
+358,Scentless Mayweed,train/Scentless Mayweed/379781ae4.png,8
+359,Loose Silky-bent,train/Loose Silky-bent/8fab11dfb.png,6
+360,Small-flowered Cranesbill,train/Small-flowered Cranesbill/b95a6d369.png,10
+361,Charlock,train/Charlock/78a4d13c5.png,1
+362,Charlock,train/Charlock/92184e2d6.png,1
+363,Small-flowered Cranesbill,train/Small-flowered Cranesbill/ad8b28544.png,10
+364,Fat Hen,train/Fat Hen/5cc2862dc.png,5
+365,Common Chickweed,train/Common Chickweed/1b32b40d8.png,3
+366,Common Chickweed,train/Common Chickweed/517dd299e.png,3
+367,Black-grass,train/Black-grass/d112c9c28.png,0
+368,Charlock,train/Charlock/7a766307c.png,1
+369,Shepherds Purse,train/Shepherds Purse/3fd1a2e97.png,9
+370,Fat Hen,train/Fat Hen/f18419d0c.png,5
+371,Cleavers,train/Cleavers/0dbfac958.png,2
+372,Shepherds Purse,train/Shepherds Purse/cd616827b.png,9
+373,Loose Silky-bent,train/Loose Silky-bent/5f29a86e2.png,6
+374,Scentless Mayweed,train/Scentless Mayweed/493210bcc.png,8
+375,Common Chickweed,train/Common Chickweed/35e31b2b5.png,3
+376,Common Chickweed,train/Common Chickweed/ce0fb7c25.png,3
+377,Black-grass,train/Black-grass/1e49633e0.png,0
+378,Maize,train/Maize/5b94fab70.png,7
+379,Loose Silky-bent,train/Loose Silky-bent/f2b027c00.png,6
+380,Loose Silky-bent,train/Loose Silky-bent/b32f49c26.png,6
+381,Scentless Mayweed,train/Scentless Mayweed/c6e95a334.png,8
+382,Fat Hen,train/Fat Hen/a7fef768d.png,5
+383,Small-flowered Cranesbill,train/Small-flowered Cranesbill/f71a65a08.png,10
+384,Small-flowered Cranesbill,train/Small-flowered Cranesbill/19ae90c5c.png,10
+385,Loose Silky-bent,train/Loose Silky-bent/88a48f427.png,6
+386,Cleavers,train/Cleavers/9b8ed8471.png,2
+387,Sugar beet,train/Sugar beet/4dfe0db2c.png,11
+388,Small-flowered Cranesbill,train/Small-flowered Cranesbill/605478787.png,10
+389,Scentless Mayweed,train/Scentless Mayweed/43442896c.png,8
+390,Loose Silky-bent,train/Loose Silky-bent/181fb1703.png,6
+391,Loose Silky-bent,train/Loose Silky-bent/a954a2f55.png,6
+392,Scentless Mayweed,train/Scentless Mayweed/576951fce.png,8
+393,Small-flowered Cranesbill,train/Small-flowered Cranesbill/635dc514d.png,10
+394,Loose Silky-bent,train/Loose Silky-bent/9bf1450b6.png,6
+395,Fat Hen,train/Fat Hen/88ea1ed2a.png,5
+396,Fat Hen,train/Fat Hen/bd3b1cb2e.png,5
+397,Cleavers,train/Cleavers/c336c8da6.png,2
+398,Scentless Mayweed,train/Scentless Mayweed/731cd4d26.png,8
+399,Sugar beet,train/Sugar beet/4729baa43.png,11
+400,Loose Silky-bent,train/Loose Silky-bent/d4d65f637.png,6
+401,Fat Hen,train/Fat Hen/8611e1c13.png,5
+402,Fat Hen,train/Fat Hen/184f64b26.png,5
+403,Common Chickweed,train/Common Chickweed/c7d7cbd73.png,3
+404,Shepherds Purse,train/Shepherds Purse/8e1efae9e.png,9
+405,Black-grass,train/Black-grass/a47cfeec4.png,0
+406,Common Chickweed,train/Common Chickweed/fe801c9c0.png,3
+407,Common Chickweed,train/Common Chickweed/2caa226b8.png,3
+408,Maize,train/Maize/269a34bb9.png,7
+409,Scentless Mayweed,train/Scentless Mayweed/40eea04f4.png,8
+410,Loose Silky-bent,train/Loose Silky-bent/fe2016da9.png,6
+411,Loose Silky-bent,train/Loose Silky-bent/2240f47fd.png,6
+412,Charlock,train/Charlock/89b84d6e9.png,1
+413,Small-flowered Cranesbill,train/Small-flowered Cranesbill/2ed7d6a89.png,10
+414,Scentless Mayweed,train/Scentless Mayweed/7fdcb7bcf.png,8
+415,Fat Hen,train/Fat Hen/f0dbc5e1e.png,5
+416,Cleavers,train/Cleavers/f185a1d75.png,2
+417,Cleavers,train/Cleavers/df341f2d4.png,2
+418,Sugar beet,train/Sugar beet/bb719464c.png,11
+419,Scentless Mayweed,train/Scentless Mayweed/a82d370cd.png,8
+420,Common Chickweed,train/Common Chickweed/16c5adff0.png,3
+421,Charlock,train/Charlock/4c19db861.png,1
+422,Black-grass,train/Black-grass/8029e3396.png,0
+423,Cleavers,train/Cleavers/b0a1ac210.png,2
+424,Scentless Mayweed,train/Scentless Mayweed/b0885ca26.png,8
+425,Charlock,train/Charlock/f193af8d4.png,1
+426,Loose Silky-bent,train/Loose Silky-bent/658956a0b.png,6
+427,Fat Hen,train/Fat Hen/a5aa3564a.png,5
+428,Black-grass,train/Black-grass/6104de96e.png,0
+429,Common Chickweed,train/Common Chickweed/891a5fdca.png,3
+430,Cleavers,train/Cleavers/d55caa949.png,2
+431,Fat Hen,train/Fat Hen/803474779.png,5
+432,Fat Hen,train/Fat Hen/c44243e23.png,5
+433,Scentless Mayweed,train/Scentless Mayweed/1ffabce72.png,8
+434,Fat Hen,train/Fat Hen/d233d03bb.png,5
+435,Sugar beet,train/Sugar beet/04c979351.png,11
+436,Sugar beet,train/Sugar beet/1d314afce.png,11
+437,Cleavers,train/Cleavers/398cc8af9.png,2
+438,Fat Hen,train/Fat Hen/fee90e281.png,5
+439,Sugar beet,train/Sugar beet/2c2a8d5a4.png,11
+440,Common Chickweed,train/Common Chickweed/c67da9c32.png,3
+441,Sugar beet,train/Sugar beet/96dfb46de.png,11
+442,Common Chickweed,train/Common Chickweed/7b177457d.png,3
+443,Loose Silky-bent,train/Loose Silky-bent/b3f997421.png,6
+444,Black-grass,train/Black-grass/abe0f4751.png,0
+445,Loose Silky-bent,train/Loose Silky-bent/bc20079b6.png,6
+446,Maize,train/Maize/59f972ef4.png,7
+447,Small-flowered Cranesbill,train/Small-flowered Cranesbill/21f0b515d.png,10
+448,Small-flowered Cranesbill,train/Small-flowered Cranesbill/32c2487ad.png,10
+449,Loose Silky-bent,train/Loose Silky-bent/6a6b4d0ad.png,6
+450,Common wheat,train/Common wheat/7afa50d94.png,4
+451,Sugar beet,train/Sugar beet/817abcd36.png,11
+452,Loose Silky-bent,train/Loose Silky-bent/1f7a21bce.png,6
+453,Cleavers,train/Cleavers/1a4fe0d36.png,2
+454,Cleavers,train/Cleavers/b15ca8e4a.png,2
+455,Charlock,train/Charlock/bef36ff4f.png,1
+456,Sugar beet,train/Sugar beet/11d370bcc.png,11
+457,Loose Silky-bent,train/Loose Silky-bent/465a268eb.png,6
+458,Black-grass,train/Black-grass/1d39b8f30.png,0
+459,Cleavers,train/Cleavers/0920492fd.png,2
+460,Fat Hen,train/Fat Hen/6d9dafb55.png,5
+461,Sugar beet,train/Sugar beet/728642410.png,11
+462,Shepherds Purse,train/Shepherds Purse/b085af335.png,9
+463,Small-flowered Cranesbill,train/Small-flowered Cranesbill/4501821c3.png,10
+464,Small-flowered Cranesbill,train/Small-flowered Cranesbill/e11916073.png,10
+465,Maize,train/Maize/cdcb0f735.png,7
+466,Shepherds Purse,train/Shepherds Purse/56cfc17ec.png,9
+467,Common Chickweed,train/Common Chickweed/0f390ed98.png,3
+468,Cleavers,train/Cleavers/6cd9902c0.png,2
+469,Small-flowered Cranesbill,train/Small-flowered Cranesbill/b8ac37dcd.png,10
+470,Shepherds Purse,train/Shepherds Purse/3f408c295.png,9
+471,Shepherds Purse,train/Shepherds Purse/e0bc6c676.png,9
+472,Small-flowered Cranesbill,train/Small-flowered Cranesbill/cb65d8e94.png,10
+473,Small-flowered Cranesbill,train/Small-flowered Cranesbill/65d04573e.png,10
+474,Small-flowered Cranesbill,train/Small-flowered Cranesbill/1a2132c16.png,10
+475,Loose Silky-bent,train/Loose Silky-bent/43645a24d.png,6
+476,Black-grass,train/Black-grass/db337c4e7.png,0
+477,Small-flowered Cranesbill,train/Small-flowered Cranesbill/273fdc7f5.png,10
+478,Charlock,train/Charlock/903fff84f.png,1
+479,Fat Hen,train/Fat Hen/9e59fcd81.png,5
+480,Loose Silky-bent,train/Loose Silky-bent/746275a76.png,6
+481,Scentless Mayweed,train/Scentless Mayweed/8ccb53e12.png,8
+482,Small-flowered Cranesbill,train/Small-flowered Cranesbill/3670df417.png,10
+483,Scentless Mayweed,train/Scentless Mayweed/7d1f27d5c.png,8
+484,Charlock,train/Charlock/17199b5a7.png,1
+485,Charlock,train/Charlock/d9de67550.png,1
+486,Fat Hen,train/Fat Hen/1a5354a5b.png,5
+487,Common Chickweed,train/Common Chickweed/7cb13f366.png,3
+488,Charlock,train/Charlock/d5798e4cd.png,1
+489,Scentless Mayweed,train/Scentless Mayweed/54f414890.png,8
+490,Sugar beet,train/Sugar beet/8129d97cd.png,11
+491,Small-flowered Cranesbill,train/Small-flowered Cranesbill/301edf06a.png,10
+492,Common Chickweed,train/Common Chickweed/ab6338bd1.png,3
+493,Maize,train/Maize/5453bff0b.png,7
+494,Scentless Mayweed,train/Scentless Mayweed/8f2534b22.png,8
+495,Scentless Mayweed,train/Scentless Mayweed/4205830a0.png,8
+496,Black-grass,train/Black-grass/ea85eb4a1.png,0
+497,Black-grass,train/Black-grass/d3c72d4c3.png,0
+498,Common Chickweed,train/Common Chickweed/4d6cbfb1e.png,3
+499,Cleavers,train/Cleavers/98937154f.png,2
+500,Black-grass,train/Black-grass/355cad34c.png,0
+501,Loose Silky-bent,train/Loose Silky-bent/178b92275.png,6
+502,Fat Hen,train/Fat Hen/ec7cde707.png,5
+503,Loose Silky-bent,train/Loose Silky-bent/5a9e89ee1.png,6
+504,Common wheat,train/Common wheat/a1f2c5550.png,4
+505,Cleavers,train/Cleavers/0bcf29af7.png,2
+506,Fat Hen,train/Fat Hen/3dbdd9fe7.png,5
+507,Common wheat,train/Common wheat/1d80baed6.png,4
+508,Common wheat,train/Common wheat/6cea44433.png,4
+509,Cleavers,train/Cleavers/d9739baa6.png,2
+510,Charlock,train/Charlock/90981bf00.png,1
+511,Shepherds Purse,train/Shepherds Purse/fd0d400b6.png,9
+512,Small-flowered Cranesbill,train/Small-flowered Cranesbill/2bfbed251.png,10
+513,Fat Hen,train/Fat Hen/840018e57.png,5
+514,Small-flowered Cranesbill,train/Small-flowered Cranesbill/188dcbe7b.png,10
+515,Shepherds Purse,train/Shepherds Purse/7a9a62dac.png,9
+516,Charlock,train/Charlock/63a3d8fa0.png,1
+517,Black-grass,train/Black-grass/8dd397cd9.png,0
+518,Scentless Mayweed,train/Scentless Mayweed/195397e91.png,8
+519,Common Chickweed,train/Common Chickweed/410876711.png,3
+520,Sugar beet,train/Sugar beet/f474da0ca.png,11
+521,Loose Silky-bent,train/Loose Silky-bent/0865fb4d3.png,6
+522,Scentless Mayweed,train/Scentless Mayweed/94ba133c0.png,8
+523,Charlock,train/Charlock/e80aaab6b.png,1
+524,Loose Silky-bent,train/Loose Silky-bent/38156c37f.png,6
+525,Small-flowered Cranesbill,train/Small-flowered Cranesbill/9bd832240.png,10
+526,Fat Hen,train/Fat Hen/302a3a8ba.png,5
+527,Loose Silky-bent,train/Loose Silky-bent/25c91550e.png,6
+528,Cleavers,train/Cleavers/502eee444.png,2
+529,Loose Silky-bent,train/Loose Silky-bent/ae1c97a42.png,6
+530,Sugar beet,train/Sugar beet/8c215ce50.png,11
+531,Scentless Mayweed,train/Scentless Mayweed/f616c6831.png,8
+532,Small-flowered Cranesbill,train/Small-flowered Cranesbill/46b54b502.png,10
+533,Fat Hen,train/Fat Hen/88e4077c5.png,5
+534,Small-flowered Cranesbill,train/Small-flowered Cranesbill/3f9dd7d18.png,10
+535,Scentless Mayweed,train/Scentless Mayweed/4b910467f.png,8
+536,Maize,train/Maize/2e08d8597.png,7
+537,Common wheat,train/Common wheat/138581771.png,4
+538,Cleavers,train/Cleavers/7da3bda82.png,2
+539,Scentless Mayweed,train/Scentless Mayweed/ef23c4d59.png,8
+540,Loose Silky-bent,train/Loose Silky-bent/c646f63c7.png,6
+541,Charlock,train/Charlock/9d7f4d92c.png,1
+542,Sugar beet,train/Sugar beet/999f75899.png,11
+543,Scentless Mayweed,train/Scentless Mayweed/f0c068cc9.png,8
+544,Cleavers,train/Cleavers/9214c2997.png,2
+545,Charlock,train/Charlock/eda5cd97f.png,1
+546,Scentless Mayweed,train/Scentless Mayweed/b901006cb.png,8
+547,Common wheat,train/Common wheat/d14f74215.png,4
+548,Common Chickweed,train/Common Chickweed/dfc7cb278.png,3
+549,Charlock,train/Charlock/10d884885.png,1
+550,Black-grass,train/Black-grass/4f48eb987.png,0
+551,Scentless Mayweed,train/Scentless Mayweed/549c186a8.png,8
+552,Loose Silky-bent,train/Loose Silky-bent/6325fd82b.png,6
+553,Small-flowered Cranesbill,train/Small-flowered Cranesbill/1b71148aa.png,10
+554,Loose Silky-bent,train/Loose Silky-bent/ee72ab40b.png,6
+555,Charlock,train/Charlock/692e2c6f0.png,1
+556,Fat Hen,train/Fat Hen/25ff4825d.png,5
+557,Small-flowered Cranesbill,train/Small-flowered Cranesbill/25a9d7da2.png,10
+558,Sugar beet,train/Sugar beet/e832be17c.png,11
+559,Black-grass,train/Black-grass/bc68a27f9.png,0
+560,Cleavers,train/Cleavers/2559137f2.png,2
+561,Sugar beet,train/Sugar beet/8ded4af95.png,11
+562,Sugar beet,train/Sugar beet/019e2ca3b.png,11
+563,Common Chickweed,train/Common Chickweed/aac309dc5.png,3
+564,Black-grass,train/Black-grass/b561b3bc2.png,0
+565,Cleavers,train/Cleavers/3f5b465c6.png,2
+566,Scentless Mayweed,train/Scentless Mayweed/fa51a663c.png,8
+567,Black-grass,train/Black-grass/5296a06e6.png,0
+568,Loose Silky-bent,train/Loose Silky-bent/57d839cf9.png,6
+569,Scentless Mayweed,train/Scentless Mayweed/04f89976a.png,8
+570,Sugar beet,train/Sugar beet/089859249.png,11
+571,Common Chickweed,train/Common Chickweed/8a66600c0.png,3
+572,Fat Hen,train/Fat Hen/aaf5833f8.png,5
+573,Sugar beet,train/Sugar beet/fc441208c.png,11
+574,Cleavers,train/Cleavers/495602403.png,2
+575,Small-flowered Cranesbill,train/Small-flowered Cranesbill/ef72fb02b.png,10
+576,Common Chickweed,train/Common Chickweed/e1b642054.png,3
+577,Cleavers,train/Cleavers/d4552e3f6.png,2
+578,Charlock,train/Charlock/0e1627696.png,1
+579,Fat Hen,train/Fat Hen/9dc631eaa.png,5
+580,Maize,train/Maize/11dc03905.png,7
+581,Charlock,train/Charlock/02c95e601.png,1
+582,Common wheat,train/Common wheat/df389ab82.png,4
+583,Maize,train/Maize/8d2004e7a.png,7
+584,Small-flowered Cranesbill,train/Small-flowered Cranesbill/c2922dd4b.png,10
+585,Sugar beet,train/Sugar beet/cbed7333d.png,11
+586,Shepherds Purse,train/Shepherds Purse/42556bc41.png,9
+587,Loose Silky-bent,train/Loose Silky-bent/fced10d82.png,6
+588,Common Chickweed,train/Common Chickweed/bc92f8149.png,3
+589,Loose Silky-bent,train/Loose Silky-bent/77291b3ad.png,6
+590,Common Chickweed,train/Common Chickweed/cb5e1b823.png,3
+591,Scentless Mayweed,train/Scentless Mayweed/bd745fff9.png,8
+592,Scentless Mayweed,train/Scentless Mayweed/5c79ed488.png,8
+593,Charlock,train/Charlock/c07c67078.png,1
+594,Common Chickweed,train/Common Chickweed/440d51444.png,3
+595,Loose Silky-bent,train/Loose Silky-bent/0b1651517.png,6
+596,Small-flowered Cranesbill,train/Small-flowered Cranesbill/9f4b3c440.png,10
+597,Charlock,train/Charlock/d903a2a6d.png,1
+598,Black-grass,train/Black-grass/75ef53b3b.png,0
+599,Common Chickweed,train/Common Chickweed/8349ffb69.png,3
+600,Common Chickweed,train/Common Chickweed/146feb316.png,3
+601,Small-flowered Cranesbill,train/Small-flowered Cranesbill/6f29a7ddb.png,10
+602,Small-flowered Cranesbill,train/Small-flowered Cranesbill/1de219f93.png,10
+603,Loose Silky-bent,train/Loose Silky-bent/2b85ff393.png,6
+604,Sugar beet,train/Sugar beet/922f7543d.png,11
+605,Cleavers,train/Cleavers/666fa4f1a.png,2
+606,Common Chickweed,train/Common Chickweed/6232a5fcb.png,3
+607,Loose Silky-bent,train/Loose Silky-bent/efd3b6718.png,6
+608,Cleavers,train/Cleavers/c30be2849.png,2
+609,Small-flowered Cranesbill,train/Small-flowered Cranesbill/420457fe9.png,10
+610,Common Chickweed,train/Common Chickweed/611fc426b.png,3
+611,Scentless Mayweed,train/Scentless Mayweed/87c6cf4ed.png,8
+612,Fat Hen,train/Fat Hen/5f2ad45c4.png,5
+613,Shepherds Purse,train/Shepherds Purse/0e93f4d05.png,9
+614,Black-grass,train/Black-grass/850a09a6b.png,0
+615,Maize,train/Maize/c5bcc4cb3.png,7
+616,Common Chickweed,train/Common Chickweed/495d1a520.png,3
+617,Charlock,train/Charlock/562ff38ac.png,1
+618,Fat Hen,train/Fat Hen/3b6a97588.png,5
+619,Scentless Mayweed,train/Scentless Mayweed/c8c89b850.png,8
+620,Small-flowered Cranesbill,train/Small-flowered Cranesbill/3431fcef9.png,10
+621,Common Chickweed,train/Common Chickweed/8a22b4f1f.png,3
+622,Small-flowered Cranesbill,train/Small-flowered Cranesbill/137126847.png,10
+623,Loose Silky-bent,train/Loose Silky-bent/1a6a98258.png,6
+624,Shepherds Purse,train/Shepherds Purse/995a8bd85.png,9
+625,Cleavers,train/Cleavers/d4803dca4.png,2
+626,Scentless Mayweed,train/Scentless Mayweed/fa32e1e7f.png,8
+627,Cleavers,train/Cleavers/fd2400d5f.png,2
+628,Fat Hen,train/Fat Hen/7e98e4aa6.png,5
+629,Maize,train/Maize/5150527da.png,7
+630,Charlock,train/Charlock/d5b30d4d2.png,1
+631,Common wheat,train/Common wheat/42098546c.png,4
+632,Fat Hen,train/Fat Hen/52e82d773.png,5
+633,Black-grass,train/Black-grass/da4f48653.png,0
+634,Fat Hen,train/Fat Hen/4d7fd4020.png,5
+635,Fat Hen,train/Fat Hen/f2b9bb477.png,5
+636,Fat Hen,train/Fat Hen/9d2684128.png,5
+637,Small-flowered Cranesbill,train/Small-flowered Cranesbill/18a460203.png,10
+638,Fat Hen,train/Fat Hen/180f41d53.png,5
+639,Small-flowered Cranesbill,train/Small-flowered Cranesbill/79cc6a8e8.png,10
+640,Black-grass,train/Black-grass/ed17d766b.png,0
+641,Common Chickweed,train/Common Chickweed/39c7819ff.png,3
+642,Common Chickweed,train/Common Chickweed/16b1530ce.png,3
+643,Fat Hen,train/Fat Hen/5a1183fff.png,5
+644,Common Chickweed,train/Common Chickweed/d958d346f.png,3
+645,Cleavers,train/Cleavers/794b914bf.png,2
+646,Sugar beet,train/Sugar beet/fc293eacb.png,11
+647,Loose Silky-bent,train/Loose Silky-bent/10250b3ac.png,6
+648,Common wheat,train/Common wheat/aea5d6bb9.png,4
+649,Shepherds Purse,train/Shepherds Purse/85c77d977.png,9
+650,Common wheat,train/Common wheat/2c4412af8.png,4
+651,Fat Hen,train/Fat Hen/8f6b56be9.png,5
+652,Common wheat,train/Common wheat/71c7dd2a2.png,4
+653,Charlock,train/Charlock/ea0751e51.png,1
+654,Loose Silky-bent,train/Loose Silky-bent/4c0447f59.png,6
+655,Sugar beet,train/Sugar beet/33ddbf2cc.png,11
+656,Loose Silky-bent,train/Loose Silky-bent/bcf82b0f4.png,6
+657,Small-flowered Cranesbill,train/Small-flowered Cranesbill/8ee5d6835.png,10
+658,Loose Silky-bent,train/Loose Silky-bent/e70f5f158.png,6
+659,Common wheat,train/Common wheat/a1c72af26.png,4
+660,Black-grass,train/Black-grass/c39541d9a.png,0
+661,Small-flowered Cranesbill,train/Small-flowered Cranesbill/fb60fbf1a.png,10
+662,Charlock,train/Charlock/a48a9b71d.png,1
+663,Common Chickweed,train/Common Chickweed/c908a478e.png,3
+664,Fat Hen,train/Fat Hen/6b175ade7.png,5
+665,Black-grass,train/Black-grass/53ab7a3da.png,0
+666,Loose Silky-bent,train/Loose Silky-bent/eda07616f.png,6
+667,Fat Hen,train/Fat Hen/c1d528ca2.png,5
+668,Sugar beet,train/Sugar beet/344371cbf.png,11
+669,Loose Silky-bent,train/Loose Silky-bent/4bc5d1c38.png,6
+670,Cleavers,train/Cleavers/6cead585f.png,2
+671,Sugar beet,train/Sugar beet/3fde34b6c.png,11
+672,Loose Silky-bent,train/Loose Silky-bent/8cf31d387.png,6
+673,Small-flowered Cranesbill,train/Small-flowered Cranesbill/8fd09f9a8.png,10
+674,Fat Hen,train/Fat Hen/c4152caea.png,5
+675,Charlock,train/Charlock/168982d9c.png,1
+676,Cleavers,train/Cleavers/4449f17c5.png,2
+677,Loose Silky-bent,train/Loose Silky-bent/9c46a8faf.png,6
+678,Sugar beet,train/Sugar beet/30ff35160.png,11
+679,Scentless Mayweed,train/Scentless Mayweed/eb48a3979.png,8
+680,Scentless Mayweed,train/Scentless Mayweed/5fa64f7ab.png,8
+681,Fat Hen,train/Fat Hen/7637818c7.png,5
+682,Black-grass,train/Black-grass/fef14b865.png,0
+683,Cleavers,train/Cleavers/f5a58ab42.png,2
+684,Scentless Mayweed,train/Scentless Mayweed/05f76f20c.png,8
+685,Loose Silky-bent,train/Loose Silky-bent/58d70ef74.png,6
+686,Small-flowered Cranesbill,train/Small-flowered Cranesbill/f43489876.png,10
+687,Fat Hen,train/Fat Hen/fdfb296da.png,5
+688,Cleavers,train/Cleavers/c4a974463.png,2
+689,Black-grass,train/Black-grass/3f268bcf8.png,0
+690,Charlock,train/Charlock/671b2d4eb.png,1
+691,Scentless Mayweed,train/Scentless Mayweed/0e2b8c097.png,8
+692,Sugar beet,train/Sugar beet/d5d014036.png,11
+693,Maize,train/Maize/3cf92e356.png,7
+694,Black-grass,train/Black-grass/c1ab59648.png,0
+695,Sugar beet,train/Sugar beet/dc39e01ec.png,11
+696,Scentless Mayweed,train/Scentless Mayweed/0372b48e1.png,8
+697,Black-grass,train/Black-grass/54c6dbde4.png,0
+698,Common Chickweed,train/Common Chickweed/1e21aff50.png,3
+699,Loose Silky-bent,train/Loose Silky-bent/6b006cb85.png,6
+700,Black-grass,train/Black-grass/ab479d343.png,0
+701,Small-flowered Cranesbill,train/Small-flowered Cranesbill/984f52a86.png,10
+702,Scentless Mayweed,train/Scentless Mayweed/4ae939d7d.png,8
+703,Sugar beet,train/Sugar beet/6d18daabd.png,11
+704,Black-grass,train/Black-grass/af1b91028.png,0
+705,Common Chickweed,train/Common Chickweed/78604fc59.png,3
+706,Common Chickweed,train/Common Chickweed/21ace47d3.png,3
+707,Sugar beet,train/Sugar beet/21114a782.png,11
+708,Loose Silky-bent,train/Loose Silky-bent/58f28c75f.png,6
+709,Charlock,train/Charlock/207c8f749.png,1
+710,Fat Hen,train/Fat Hen/3cafef989.png,5
+711,Small-flowered Cranesbill,train/Small-flowered Cranesbill/f46902555.png,10
+712,Common Chickweed,train/Common Chickweed/50b0d5abf.png,3
+713,Fat Hen,train/Fat Hen/ea5ac32c1.png,5
+714,Fat Hen,train/Fat Hen/ea6e91be6.png,5
+715,Loose Silky-bent,train/Loose Silky-bent/6f112750f.png,6
+716,Small-flowered Cranesbill,train/Small-flowered Cranesbill/6af7caae2.png,10
+717,Loose Silky-bent,train/Loose Silky-bent/6604aadc8.png,6
+718,Common Chickweed,train/Common Chickweed/ea5034835.png,3
+719,Scentless Mayweed,train/Scentless Mayweed/6956b6e58.png,8
+720,Shepherds Purse,train/Shepherds Purse/682d79dee.png,9
+721,Maize,train/Maize/61c7d55b0.png,7
+722,Black-grass,train/Black-grass/e67dbce63.png,0
+723,Black-grass,train/Black-grass/ecd14321d.png,0
+724,Fat Hen,train/Fat Hen/bfdeafadd.png,5
+725,Common Chickweed,train/Common Chickweed/db4775157.png,3
+726,Sugar beet,train/Sugar beet/b3bac1203.png,11
+727,Shepherds Purse,train/Shepherds Purse/953ced7c6.png,9
+728,Black-grass,train/Black-grass/13a7f553a.png,0
+729,Loose Silky-bent,train/Loose Silky-bent/4609dd9e5.png,6
+730,Black-grass,train/Black-grass/6b9ebf8cc.png,0
+731,Common Chickweed,train/Common Chickweed/bf9f74bd3.png,3
+732,Small-flowered Cranesbill,train/Small-flowered Cranesbill/38080b297.png,10
+733,Maize,train/Maize/cccbcc365.png,7
+734,Loose Silky-bent,train/Loose Silky-bent/af2465f9e.png,6
+735,Sugar beet,train/Sugar beet/1bdfd2206.png,11
+736,Charlock,train/Charlock/1f6df012f.png,1
+737,Loose Silky-bent,train/Loose Silky-bent/730b45269.png,6
+738,Scentless Mayweed,train/Scentless Mayweed/a80860b81.png,8
+739,Fat Hen,train/Fat Hen/629185134.png,5
+740,Common Chickweed,train/Common Chickweed/ad2df5fa3.png,3
+741,Common Chickweed,train/Common Chickweed/18757e215.png,3
+742,Common Chickweed,train/Common Chickweed/66f599454.png,3
+743,Sugar beet,train/Sugar beet/b8418755e.png,11
+744,Cleavers,train/Cleavers/323f03521.png,2
+745,Cleavers,train/Cleavers/591daf862.png,2
+746,Small-flowered Cranesbill,train/Small-flowered Cranesbill/5861480ff.png,10
+747,Maize,train/Maize/8bfe6860d.png,7
+748,Scentless Mayweed,train/Scentless Mayweed/45d74776a.png,8
+749,Fat Hen,train/Fat Hen/cbf4c5ad2.png,5
